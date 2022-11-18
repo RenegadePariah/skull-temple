@@ -20,7 +20,7 @@ For linux:
 
 2. Command parameters
 
-"java -jar SkullTemple.jar <nb_rooms> <timer>"
+"java -jar SkullTemple.jar [nb_rooms] [timer]"
 
 nb_rooms: an integer between 6 and 100
 
